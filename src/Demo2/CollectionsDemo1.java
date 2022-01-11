@@ -10,6 +10,14 @@ import java.util.Collections;
  *
  * @author yuhl
  * @date 2022/1/5
+ * 一、collections 工具类 常用方法
+ * 1、reverse 方法  倒叙排序
+ * 2、shuffl 方法，随机排序
+ * 3、sort 升序
+ * 4、swap 指定元素交换位置
+ * 5、返回元素出现的次数
+ * 6、复制集合  ,需要指定新集合容量（新数组下标越界）
+ * 7、新值替换旧值
  */
 public class CollectionsDemo1 {
     public static void main(String[] args) {

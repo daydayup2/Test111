@@ -1,12 +1,16 @@
 package Demo2;
 
-        import java.util.Stack;
+import java.util.Stack;
 
 /**
  * Demo2
  *
  * @author yuhl
  * @date 2022/1/5
+ *
+ * Stack栈操作
+ * 1、peek() 获取栈顶元素
+ * 2、pop() 移除最后一个元素
  */
 public class StackDemo1 {
 
@@ -22,7 +26,7 @@ public class StackDemo1 {
 //        System.out.println("栈顶元素" + s1.peek());  //栈 后进先出，先进后出
 //        System.out.println("打印s1" + s1);
         Stack<MyObject> s2 = new Stack<MyObject>(); //1、泛型 指定参数类型
-                                                    //2、后面可省略参数
+        //2、后面可省略参数
 
         s2.push(new MyObject(1, "张三"));
         s2.push(new MyObject(2, "李四"));
@@ -35,7 +39,6 @@ public class StackDemo1 {
 
 class MyObject {
     int id;
-
 
     String name;
 
