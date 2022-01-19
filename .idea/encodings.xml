@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-clients/udian-cloud-bpm-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-clients/udian-cloud-file-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-clients/udian-cloud-msg-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-clients/udian-cloud-report-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-clients/udian-cloud-stock-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-clients/udian-cloud-studio-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-clients/udian-cloud-sys-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-clients/udian-cloud-task-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-clients/udian-cloud-uf-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-clients/udian-cloud-wrapper-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-components/udian-cloud-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-components/udian-cloud-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-components/udian-cloud-common-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-components/udian-cloud-common-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-components/udian-cloud-java-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-components/udian-cloud-tenant-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-components/udian-cloud-tenant-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-api-spring-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-api-spring-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-api-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-api-zuul-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-base-client/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-base-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-base-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-generator-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-generator-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-uaa-admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-uaa-admin-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-uaa-portal-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-platform/udian-cloud-uaa-portal-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-bpm-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-bpm-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-file-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-file-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-msg-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-msg-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-netdisk-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-netdisk-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-report-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-report-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-sba-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-sba-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-sso-ui-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-sso-ui-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-stock-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-stock-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-studio-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-studio-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-sys-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-sys-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-task-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-task-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-tenant-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-tenant-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-third-service/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-uf-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-uf-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-wrapper-service/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/rd-mgr-platform-base/udian-cloud-parent/udian-cloud-services/udian-cloud-wrapper-service/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

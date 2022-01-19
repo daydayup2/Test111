@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="udian-cloud-msg-server" />
+        <module name="udian-cloud-java-sdk" />
+        <module name="udian-cloud-task-client" />
+        <module name="udian-cloud-studio-client" />
+        <module name="udian-cloud-bpm-client" />
+        <module name="udian-cloud-sba-server" />
+        <module name="udian-cloud-uaa-admin-server" />
+        <module name="udian-cloud-uaa-portal-server" />
+        <module name="udian-cloud-sys-client" />
+        <module name="udian-cloud-file-client" />
+        <module name="udian-cloud-msg-client" />
+        <module name="udian-cloud-uf-server" />
+        <module name="udian-cloud-studio-server" />
+        <module name="udian-cloud-common-starter" />
+        <module name="udian-cloud-file-server" />
+        <module name="udian-cloud-uf-client" />
+        <module name="udian-cloud-netdisk-server" />
+        <module name="udian-cloud-report-server" />
+        <module name="udian-cloud-api-spring-server" />
+        <module name="udian-cloud-base-test" />
+        <module name="udian-cloud-third-service" />
+        <module name="udian-cloud-wrapper-service" />
+        <module name="udian-cloud-wrapper-client" />
+        <module name="udian-cloud-stock-server" />
+        <module name="udian-cloud-base-server" />
+        <module name="udian-cloud-generator-server" />
+        <module name="udian-cloud-sys-server" />
+        <module name="udian-cloud-stock-client" />
+        <module name="udian-cloud-bpm-server" />
+        <module name="udian-cloud-common-core" />
+        <module name="udian-cloud-task-server" />
+        <module name="udian-cloud-report-client" />
+        <module name="udian-cloud-tenant-starter" />
+        <module name="udian-cloud-tenant-demo" />
+        <module name="udian-cloud-base-client" />
+        <module name="udian-cloud-api-zuul-server" />
+        <module name="udian-cloud-sso-ui-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="udian-cloud-api-spring-server" target="1.8" />
+      <module name="udian-cloud-api-zuul-server" target="1.8" />
+      <module name="udian-cloud-base-client" target="1.8" />
+      <module name="udian-cloud-base-server" target="1.8" />
+      <module name="udian-cloud-base-test" target="1.8" />
+      <module name="udian-cloud-bpm-client" target="1.8" />
+      <module name="udian-cloud-bpm-server" target="1.8" />
+      <module name="udian-cloud-clients" target="1.8" />
+      <module name="udian-cloud-common-core" target="1.8" />
+      <module name="udian-cloud-common-starter" target="1.8" />
+      <module name="udian-cloud-components" target="1.8" />
+      <module name="udian-cloud-file-client" target="1.8" />
+      <module name="udian-cloud-file-server" target="1.8" />
+      <module name="udian-cloud-generator-server" target="1.8" />
+      <module name="udian-cloud-java-sdk" target="1.8" />
+      <module name="udian-cloud-msg-client" target="1.8" />
+      <module name="udian-cloud-msg-server" target="1.8" />
+      <module name="udian-cloud-netdisk-server" target="1.8" />
+      <module name="udian-cloud-parent" target="1.8" />
+      <module name="udian-cloud-platform" target="1.8" />
+      <module name="udian-cloud-report-client" target="1.8" />
+      <module name="udian-cloud-report-server" target="1.8" />
+      <module name="udian-cloud-sba-server" target="1.8" />
+      <module name="udian-cloud-services" target="1.8" />
+      <module name="udian-cloud-sso-ui-demo" target="1.8" />
+      <module name="udian-cloud-stock-client" target="1.8" />
+      <module name="udian-cloud-stock-server" target="1.8" />
+      <module name="udian-cloud-studio-client" target="1.8" />
+      <module name="udian-cloud-studio-server" target="1.8" />
+      <module name="udian-cloud-sys-client" target="1.8" />
+      <module name="udian-cloud-sys-server" target="1.8" />
+      <module name="udian-cloud-task-client" target="1.8" />
+      <module name="udian-cloud-task-server" target="1.8" />
+      <module name="udian-cloud-tenant-demo" target="1.8" />
+      <module name="udian-cloud-tenant-starter" target="1.8" />
+      <module name="udian-cloud-tests" target="1.8" />
+      <module name="udian-cloud-third-service" target="1.8" />
+      <module name="udian-cloud-uaa-admin-server" target="1.8" />
+      <module name="udian-cloud-uaa-portal-server" target="1.8" />
+      <module name="udian-cloud-uf-client" target="1.8" />
+      <module name="udian-cloud-uf-server" target="1.8" />
+      <module name="udian-cloud-wrapper-client" target="1.8" />
+      <module name="udian-cloud-wrapper-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
