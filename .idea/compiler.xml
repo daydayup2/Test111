@@ -36,6 +36,7 @@
         <module name="udian-cloud-stock-client" />
         <module name="udian-cloud-bpm-server" />
         <module name="udian-cloud-common-core" />
+        <module name="Test1" />
         <module name="udian-cloud-task-server" />
         <module name="udian-cloud-report-client" />
         <module name="udian-cloud-tenant-starter" />
@@ -46,6 +47,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Test1" target="1.8" />
       <module name="udian-cloud-api-spring-server" target="1.8" />
       <module name="udian-cloud-api-zuul-server" target="1.8" />
       <module name="udian-cloud-base-client" target="1.8" />
