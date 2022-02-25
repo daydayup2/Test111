@@ -10,8 +10,11 @@ import java.io.File;
  * Test4JDemo1
  *
  * @author yuhl
- * @date 2022/1/25
+ * @date 2022/1/25\
+ *
+ * 图像识别
  */
+
 public class Test4jDemo1 {
     public static void main(String[] args)throws TesseractException {
         String path = "D:/test/";
